@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A developer and analyst. </p>
+<p align="left">A developer and analyst 🧑🏻‍💻 </p>
 
 ###
 
