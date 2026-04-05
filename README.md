@@ -78,8 +78,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sandip-NITD&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandip-NITD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandip-NITD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Sandip-NITD/Sandip-NITD/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -94,13 +98,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Sandip-NITD/Sandip-NITD/output/snake.svg" alt="Snake animation" />
-
-###
-
-<!-- <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-### -->
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
